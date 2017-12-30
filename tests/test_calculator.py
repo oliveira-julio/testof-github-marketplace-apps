@@ -1,7 +1,6 @@
 import unittest
 import sys
 sys.path.append('..')
-
 from src.calculator import calculator
 
 
