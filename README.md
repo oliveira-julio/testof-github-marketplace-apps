@@ -1,0 +1,1 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/servitoroftheoutergods/testof-github-marketplace-apps?branch=master)](https://bettercodehub.com/)
